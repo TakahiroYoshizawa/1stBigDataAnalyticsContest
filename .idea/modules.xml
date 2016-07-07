@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1stBigDataAnalyticsContest.iml" filepath="$PROJECT_DIR$/.idea/1stBigDataAnalyticsContest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MATSUO/.idea/MATSUO.iml" filepath="$PROJECT_DIR$/../MATSUO/.idea/MATSUO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MSE/.idea/MSE.iml" filepath="$PROJECT_DIR$/../MSE/.idea/MSE.iml" />
+    </modules>
+  </component>
+</project>
